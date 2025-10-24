@@ -9,8 +9,9 @@ body {
 }
 
 header {
-  border-bottom: 2px solid #0b3d91;
+  border-bottom: 4px double #0b3d91;
   margin-bottom: 20px;
+  padding-bottom: 5px;
 }
 
 h1, h2 {
