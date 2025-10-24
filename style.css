@@ -9,16 +9,26 @@ body {
 }
 
 header {
-  border-bottom: 2px solid #0072f5;
+  border-bottom: 2px solid #0b3d91;
   margin-bottom: 20px;
 }
 
 h1, h2 {
-  color: #0072f5;
+  color: #0b3d91;
 }
 
 nav {
   margin-bottom: 20px;
+}
+
+h1 {
+  font-size: 2.2em;
+  margin-bottom: 0.2em;
+}
+
+h2 {
+  font-size: 1.5em;
+  margin-top: 1.5em;
 }
 
 nav a {
